@@ -3,3 +3,5 @@ nossa, são muitos comandos, espero entender algum dia!
 O github tem uma interface difícil, mas com a prática deve facilitar
 
 testando pelo vscode agora hehe,"muda mais alguma coisa" Carvalho, Ingrid 2025.
+
+ai cara, tá difícil entender como esse git funciona 22/10/2025 pré trabalho de programação 2 sos
